@@ -7,8 +7,11 @@
 
 [SwiftUI之AlignmentGuides](https://juejin.im/post/5ef94c64e51d453474166298)
 
+[SwiftUI之GeometryReader](https://juejin.im/post/5f05737a6fb9a07e7a53d384)
+
 ## 控件
 [SwiftUI之ScrollView+Hosting+Representable](https://juejin.im/post/5f0336506fb9a07e8351f63d)
+[SwiftUI-RoundedCornersView](https://github.com/agelessman/SwiftUI-RoundedCornersView)
 
 ## 动画
 
