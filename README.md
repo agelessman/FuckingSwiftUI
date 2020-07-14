@@ -42,6 +42,12 @@
 
 [SwiftUI之Gradient详解](https://juejin.im/post/5eff0d3bf265da23062460ee)
 
+[SwiftUI之View Tree（PreferenceKey）](https://juejin.im/post/5f06c5246fb9a07e9824cee2)
+
+[SwiftUI之View Tree（AnchorPreferences）](https://juejin.im/post/5f0c47805188252e3426daa3)
+
+[SwiftUI之View Tree实战1](https://juejin.im/post/5f0daac7e51d4534c9397cad)
+
 ## SwiftUI vs UIKit
 
 [SwiftUI之如何监听Dismiss手势](https://juejin.im/post/5ef94d996fb9a07e637d04e2)
