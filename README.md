@@ -48,6 +48,8 @@
 
 [SwiftUI之View Tree实战1](https://juejin.im/post/5f0daac7e51d4534c9397cad)
 
+[SwiftUI之View Tree 实战2（绘制二叉树）](https://juejin.im/post/5f0e7437e51d453495701ab7)
+
 ## SwiftUI vs UIKit
 
 [SwiftUI之如何监听Dismiss手势](https://juejin.im/post/5ef94d996fb9a07e637d04e2)
