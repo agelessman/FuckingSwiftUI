@@ -58,6 +58,9 @@
 
 [SwiftUI之如何监听Dismiss手势](https://juejin.im/post/5ef94d996fb9a07e637d04e2)
 
+## 其他
+[一文读懂Swift函数式编程](https://juejin.im/post/6863262706720817159)
+
 
 
 
