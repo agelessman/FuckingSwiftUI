@@ -62,7 +62,7 @@
 [一文读懂Swift函数式编程](https://juejin.im/post/6863262706720817159)
 
 ## Combine核心内容
-[Combine之简述](https://juejin.cn/post/6911211072611418120/)
+1. [Combine之简述](https://juejin.cn/post/6911211072611418120/)
 
 
 
