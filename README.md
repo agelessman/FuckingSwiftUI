@@ -62,6 +62,8 @@
 [一文读懂Swift函数式编程](https://juejin.im/post/6863262706720817159)
 
 ## Combine核心内容
+> 不得不说，Combine+SwiftUI是一对超强组合，用SwiftUI写代码不熟悉Combine是万万不行的，先补充纯文字的教程，后续后增加视频教程
+
 1. [Combine之简述](https://juejin.cn/post/6911211072611418120/)
 2. [Combine之核心概念](https://juejin.cn/post/6911489863204700167/)
 
