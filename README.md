@@ -66,7 +66,8 @@
 
 1. [Combine之简述](https://juejin.cn/post/6911211072611418120/)
 2. [Combine之核心概念](https://juejin.cn/post/6911489863204700167/)
-2. [Combine之Publishers](https://juejin.cn/post/6911859875014246407/)
+3. [Combine之Publishers](https://juejin.cn/post/6911859875014246407/)
+4. [Combine之Operator[Mapping elements元素映射]](https://juejin.cn/post/6912227043531423757/)
 
 
 
