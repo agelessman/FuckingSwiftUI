@@ -69,6 +69,6 @@
 3. [Combine之Publishers](https://juejin.cn/post/6911859875014246407/)
 4. [Combine之Operator[Mapping elements元素映射]](https://juejin.cn/post/6912227043531423757/)
 5. [Combine之Operator(Filtering elements元素过滤)](https://juejin.cn/post/6913717022077485063/)
-
+6. [Combine之Operator(Reducing elements元素减少)](https://juejin.cn/post/6914114671762997255/)
 
 
