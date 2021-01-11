@@ -73,4 +73,5 @@
 7. [Combine之Operator(Mixing datas 数据合并)](https://juejin.cn/post/6914466467861921806/)
 8. [Combine之Operator(Matching datas 数据匹配))](https://juejin.cn/post/6914833026937520135/)
 9. [Combine之Operator(Mathematic operations 数学运算符)](https://juejin.cn/post/6915214311317045255/)
+10. [Combine之Operator(Sequence operations 顺序操作)](https://juejin.cn/post/6916383020878888967/)
 
