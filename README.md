@@ -75,3 +75,4 @@
 9. [Combine之Operator(Mathematic operations 数学运算符)](https://juejin.cn/post/6915214311317045255/)
 10. [Combine之Operator(Sequence operations 顺序操作)](https://juejin.cn/post/6916383020878888967/)
 11. [Combine之Operator(Controlling timing 时间控制)](https://juejin.cn/post/6916686668716212238/)
+12. [Combine之Operator(Multiple subscribers 多重订阅)](https://juejin.cn/post/6917048059612856327/)
