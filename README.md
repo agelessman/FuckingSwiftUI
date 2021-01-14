@@ -77,3 +77,4 @@
 11. [Combine之Operator(Sequence operations 顺序操作)](https://juejin.cn/post/6916383020878888967/)
 12. [Combine之Operator(Controlling timing 时间控制)](https://juejin.cn/post/6916686668716212238/)
 13. [Combine之Operator(Multiple subscribers 多重订阅)](https://juejin.cn/post/6917048059612856327/)
+14. [Combine之Operator(Encoding and decoding 编解码)](https://juejin.cn/post/6917429103352086541/)
