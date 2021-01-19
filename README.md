@@ -80,3 +80,4 @@
 14. [Combine之Operator(Encoding and decoding 编解码)](https://juejin.cn/post/6917429103352086541/)
 15. [Combine之Operator(Scheduler and Thread handling 处理线程)](https://juejin.cn/post/6918909429882716168/)
 16. [Combine之Operator(switchToLatest)](https://juejin.cn/post/6918910507596382216/)
+17. [Combine之Operator(Error Handing 错误处理)](https://juejin.cn/post/6919282447100149773/)
