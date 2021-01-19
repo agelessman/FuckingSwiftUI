@@ -64,6 +64,8 @@
 该项目是对[MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI)的拙劣模仿，有兴趣的朋友可以去下载学习原项目，
 本人对原项目的UI部分做了部分调整，但使用了大量的Combine来处理逻辑和网络请求，代码更加容易阅读和理解，项目现在处于开发中。。。
 
+**初步计划是实现iOS，iPadOS， macOS3个平台的适配，帮助大家学习SwiftUI知识，等项目写完后，会做成视屏教程。**
+
 ## 其他
 [一文读懂Swift函数式编程](https://juejin.im/post/6863262706720817159)
 
