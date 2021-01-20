@@ -90,3 +90,4 @@
 16. [Combine之Operator(switchToLatest)](https://juejin.cn/post/6918910507596382216/)
 17. [Combine之Operator(Error Handing 错误处理)](https://juejin.cn/post/6919282447100149773/)
 18. [Combine之Operator(Debugging调试)](https://juejin.cn/post/6919283085657931783/)
+19. [Combine之Subscribers](https://juejin.cn/post/6919652912734535693/)
