@@ -93,3 +93,4 @@
 19. [Combine之Subscribers](https://juejin.cn/post/6919652912734535693/)
 20. [Combine之SwiftUI中的状态管理](https://juejin.cn/post/6920025176834834439/)
 21. [Combine之实战(应用)](https://juejin.cn/post/6920400409542524936/)
+22. [Combine之自定义Publisher](https://juejin.cn/post/6921875017361948679/)
