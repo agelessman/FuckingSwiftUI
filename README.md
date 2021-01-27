@@ -59,7 +59,7 @@
 [SwiftUI之如何监听Dismiss手势](https://juejin.im/post/5ef94d996fb9a07e637d04e2)
 
 ## 实战
-[LearnMovieSwiftUI](https://github.com/agelessman/LearnMovieSwiftUI)
+[LearnMovieSwiftUI](https://github.com/agelessman/LearnMovieSwiftUI)**需要f_a_n q_i_a_n_g**
 ![img](https://github.com/Dimillian/MovieSwiftUI/raw/master/images/MovieSwiftUI_promo_new.png?)
 该项目是对[MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI)的拙劣模仿，有兴趣的朋友可以去下载学习原项目，
 本人对原项目的UI部分做了部分调整，但使用了大量的Combine来处理逻辑和网络请求，代码更加容易阅读和理解，项目现在处于开发中。。。
