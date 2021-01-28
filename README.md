@@ -72,6 +72,14 @@
 ## Combine核心内容
 > 不得不说，Combine+SwiftUI是一对超强组合，用SwiftUI写代码不熟悉Combine是万万不行的，先补充纯文字的教程，后续再增加视频教程
 
+**到目前为止，Combine的教程已经完成，通过学习该教程能够全面地了解Combine的应用和原理。**
+
+**如果想学习如何拓展Combine，可以访问[CombineExt](https://github.com/CombineCommunity/CombineExt)**
+
+**更进一步，如果想了解Combine源码层面的知识，可以访问[OpenCombine](https://github.com/OpenCombine/OpenCombine)**
+
+**关于Combine的任何知识，都可以在这些内容中获取，希望能够帮助到大家。**
+
 1. [Combine之简述](https://juejin.cn/post/6911211072611418120/)
 2. [Combine之核心概念](https://juejin.cn/post/6911489863204700167/)
 3. [Combine之Publishers](https://juejin.cn/post/6911859875014246407/)
