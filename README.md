@@ -95,3 +95,4 @@
 21. [Combine之实战(应用)](https://juejin.cn/post/6920400409542524936/)
 22. [Combine之自定义Publisher](https://juejin.cn/post/6921875017361948679/)
 23. [Combine之自定义Operator](https://juejin.cn/post/6922249243319074823/)
+24. [Combine之自定义Subscriber](https://juejin.cn/post/6922637646762098702/)
